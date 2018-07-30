@@ -21,6 +21,6 @@ function iLoveTheBeatles(number){
   var array =[];
   var i = 0;
   do { i < number.length){
-    
+    array.push (number[i])
   }
 }
